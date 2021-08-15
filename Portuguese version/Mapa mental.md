@@ -54,6 +54,8 @@
    12.1. AWS
    12.2. AZURE
 
+13. COMPUTAÇÃO QUÂNTICA
+
 
 # Engenharia da Computação
 
