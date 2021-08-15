@@ -1,4 +1,4 @@
-# mapa-mental-computacao
+# Mapa mental da computação
 Portuguese version
  Mapa mental da Computação
 
